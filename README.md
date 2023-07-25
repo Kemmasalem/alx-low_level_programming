@@ -1,2 +1,3 @@
-0x00. C - Hello, World
 alx-low_level_programming
+nested loop
+0-reset_to_98
